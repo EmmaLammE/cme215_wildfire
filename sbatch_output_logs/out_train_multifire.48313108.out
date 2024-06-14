@@ -1,0 +1,197 @@
+########################################################################
+########################################################################
+Total num of fire events to simulate:  8
+
+Start fire id  387281 ...
+--------------------------------------------------------------
+Reading in data for fire ID:  387281
+spread_daily shape:  (250, 250, 80)
+    some data points:  [0. 0. 0. 0.] 1.0
+wind_daily shape  :  (250, 250, 80)
+    some data points:  [0.06000688 0.10689995 0.12277427 0.13935007]
+temp_daily shape  :  (250, 250, 80)
+    some data points:  [0.91545114 0.91589202 0.91137856 0.90684552]
+topo shape        :  (250, 250, 80)
+    some data points:  [0.25769922 0.24867589 0.23652518 0.26498658]
+slope shape       :  (250, 250, 80)
+    some data points:  [0.14147148 0.20075507 0.12362545 0.29735871]
+NDVI shape        :  (250, 250, 80)
+    some data points:  [4.01299229e-25 2.98382403e-07 1.49792169e-04 4.51008647e-01]
+--------------------------------------------------------------
+Input data
+unknown var s (area burned) shape                   :  (250, 250, 80, 1)
+control parameters [wind,temp,topo,slope,NDVI] shape:  (250, 250, 80, 4)
+dt                                                  :  0.012658227848101266
+grid size                                           :  250 , 250
+a lim, y lim                              :  -1.325284287140675 1.3146820128436458 ,  -1.0 0.9920000000000484
+dx, dy                                    :  0.010602274297125902 ,  0.008000000000000118
+
+Start fire id  429837 ...
+--------------------------------------------------------------
+Reading in data for fire ID:  429837
+spread_daily shape:  (250, 250, 21)
+    some data points:  [0. 0. 0. 0.] 1.0
+wind_daily shape  :  (250, 250, 21)
+    some data points:  [0.01615121 0.01615121 0.01615121 0.01615121]
+temp_daily shape  :  (250, 250, 21)
+    some data points:  [0.74059571 0.74059571 0.74059571 0.74059571]
+topo shape        :  (250, 250, 21)
+    some data points:  [0.47282703 0.39804378 0.35782976 0.33049111]
+slope shape       :  (250, 250, 21)
+    some data points:  [0.59391916 0.45100675 0.27323219 0.21904834]
+NDVI shape        :  (250, 250, 21)
+    some data points:  [0. 0. 0. 0.]
+--------------------------------------------------------------
+Input data
+unknown var s (area burned) shape                   :  (250, 250, 21, 1)
+control parameters [wind,temp,topo,slope,NDVI] shape:  (250, 250, 21, 4)
+dt                                                  :  0.05
+grid size                                           :  250 , 250
+a lim, y lim                              :  -1.288125052876193 1.2778200524531835 ,  -1.0 0.992
+dx, dy                                    :  0.010305000423009414 ,  0.008000000000000007
+
+Start fire id  430044 ...
+--------------------------------------------------------------
+Reading in data for fire ID:  430044
+spread_daily shape:  (250, 250, 51)
+    some data points:  [0. 0. 0. 0.] 1.0
+wind_daily shape  :  (250, 250, 51)
+    some data points:  [0.11281746 0.11281746 0.11281746 0.11281746]
+temp_daily shape  :  (250, 250, 51)
+    some data points:  [0.88528841 0.88528841 0.88528841 0.88528841]
+topo shape        :  (250, 250, 51)
+    some data points:  [0.07517105 0.0814314  0.09148931 0.09274844]
+slope shape       :  (250, 250, 51)
+    some data points:  [0.10186559 0.13344045 0.10768001 0.1250596 ]
+NDVI shape        :  (250, 250, 51)
+    some data points:  [0.00000000e+00 4.58211643e-10 1.76839718e-06 0.00000000e+00]
+--------------------------------------------------------------
+Input data
+unknown var s (area burned) shape                   :  (250, 250, 51, 1)
+control parameters [wind,temp,topo,slope,NDVI] shape:  (250, 250, 51, 4)
+dt                                                  :  0.02
+grid size                                           :  250 , 250
+a lim, y lim                              :  -1.405381757740908 1.3941387036788728 ,  -1.000000000000027 0.9919999999999998
+dx, dy                                    :  0.011243054061926827 ,  0.008000000000000118
+
+Start fire id  394701 ...
+--------------------------------------------------------------
+Reading in data for fire ID:  394701
+spread_daily shape:  (250, 250, 11)
+    some data points:  [0. 0. 0. 0.] 1.0
+wind_daily shape  :  (250, 250, 11)
+    some data points:  [0.08468371 0.11859047 0.12058918 0.12255513]
+temp_daily shape  :  (250, 250, 11)
+    some data points:  [0.91232529 0.91227095 0.91102188 0.90976716]
+topo shape        :  (250, 250, 11)
+    some data points:  [0.03260031 0.03301152 0.03182496 0.03271537]
+slope shape       :  (250, 250, 11)
+    some data points:  [0.01074417 0.01257737 0.00715513 0.0044798 ]
+NDVI shape        :  (250, 250, 11)
+    some data points:  [4.00779636e-18 2.64925786e-01 2.03675965e-01 2.63328181e-01]
+--------------------------------------------------------------
+Input data
+unknown var s (area burned) shape                   :  (250, 250, 11, 1)
+control parameters [wind,temp,topo,slope,NDVI] shape:  (250, 250, 11, 4)
+dt                                                  :  0.1
+grid size                                           :  250 , 250
+a lim, y lim                              :  -2.2677594181012637 2.249617342756311 ,  -1.0 0.992
+dx, dy                                    :  0.018142075344809605 ,  0.008000000000000007
+
+Start fire id  387060 ...
+--------------------------------------------------------------
+Reading in data for fire ID:  387060
+spread_daily shape:  (250, 250, 31)
+    some data points:  [0. 0. 0. 0.] 1.0
+wind_daily shape  :  (250, 250, 31)
+    some data points:  [0.46932946 0.46516896 0.46379322 0.46215386]
+temp_daily shape  :  (250, 250, 31)
+    some data points:  [0.83418837 0.83305291 0.83286169 0.8327431 ]
+topo shape        :  (250, 250, 31)
+    some data points:  [0.25354348 0.26049562 0.25956222 0.2631606 ]
+slope shape       :  (250, 250, 31)
+    some data points:  [0.18742427 0.22801995 0.26462682 0.12400338]
+NDVI shape        :  (250, 250, 31)
+    some data points:  [0.00000000e+00 0.00000000e+00 1.13081298e-14 3.44943539e-12]
+--------------------------------------------------------------
+Input data
+unknown var s (area burned) shape                   :  (250, 250, 31, 1)
+control parameters [wind,temp,topo,slope,NDVI] shape:  (250, 250, 31, 4)
+dt                                                  :  0.03333333333333333
+grid size                                           :  250 , 250
+a lim, y lim                              :  -1.258046549684436 1.2479821772869606 ,  -1.0 0.992
+dx, dy                                    :  0.010064372397475374 ,  0.008000000000000007
+
+Start fire id  430137 ...
+--------------------------------------------------------------
+Reading in data for fire ID:  430137
+spread_daily shape:  (250, 250, 44)
+    some data points:  [0. 0. 0. 0.] 1.0
+wind_daily shape  :  (250, 250, 44)
+    some data points:  [0.19851393 0.19851393 0.19851393 0.18049947]
+temp_daily shape  :  (250, 250, 44)
+    some data points:  [0.80058651 0.80058651 0.80058651 0.78993283]
+topo shape        :  (250, 250, 44)
+    some data points:  [0.36360736 0.36962927 0.38568305 0.39660766]
+slope shape       :  (250, 250, 44)
+    some data points:  [0.29806068 0.36315707 0.3655771  0.14734847]
+NDVI shape        :  (250, 250, 44)
+    some data points:  [0.         0.         0.4300489  0.41390925]
+--------------------------------------------------------------
+Input data
+unknown var s (area burned) shape                   :  (250, 250, 44, 1)
+control parameters [wind,temp,topo,slope,NDVI] shape:  (250, 250, 44, 4)
+dt                                                  :  0.023255813953488372
+grid size                                           :  250 , 250
+a lim, y lim                              :  -1.9810521708299078 1.9652037534632691 ,  -1.0 0.992
+dx, dy                                    :  0.01584841736663911 ,  0.008000000000000007
+
+Start fire id  368196 ...
+--------------------------------------------------------------
+Reading in data for fire ID:  368196
+spread_daily shape:  (250, 250, 33)
+    some data points:  [0. 0. 0. 0.] 1.0
+wind_daily shape  :  (250, 250, 33)
+    some data points:  [0.0839102  0.0839102  0.0839102  0.09889589]
+temp_daily shape  :  (250, 250, 33)
+    some data points:  [0.51610193 0.51610193 0.51610193 0.51602386]
+topo shape        :  (250, 250, 33)
+    some data points:  [0.56427128 0.53357972 0.50348237 0.49547958]
+slope shape       :  (250, 250, 33)
+    some data points:  [0.5154946  0.4937348  0.40330532 0.41771877]
+NDVI shape        :  (250, 250, 33)
+    some data points:  [0.         0.         0.07420825 0.13171431]
+--------------------------------------------------------------
+Input data
+unknown var s (area burned) shape                   :  (250, 250, 33, 1)
+control parameters [wind,temp,topo,slope,NDVI] shape:  (250, 250, 33, 4)
+dt                                                  :  0.03125
+grid size                                           :  250 , 250
+a lim, y lim                              :  -1.559951656698815 1.5474720434450646 ,  -1.0 0.992
+dx, dy                                    :  0.012479613253590038 ,  0.008000000000000007
+
+Start fire id  387635 ...
+--------------------------------------------------------------
+Reading in data for fire ID:  387635
+spread_daily shape:  (250, 250, 29)
+    some data points:  [0. 0. 0. 0.] 1.0
+wind_daily shape  :  (250, 250, 29)
+    some data points:  [0.54728078 0.54629446 0.54658893 0.54685993]
+temp_daily shape  :  (250, 250, 29)
+    some data points:  [0.67031056 0.67325006 0.6763786  0.67955767]
+topo shape        :  (250, 250, 29)
+    some data points:  [0.75182555 0.72099065 0.69995765 0.67773528]
+slope shape       :  (250, 250, 29)
+    some data points:  [0.50932787 0.50958998 0.53149217 0.61454815]
+NDVI shape        :  (250, 250, 29)
+    some data points:  [3.12392346e-17 3.81557490e-01 3.39918099e-01 3.00392857e-01]
+--------------------------------------------------------------
+Input data
+unknown var s (area burned) shape                   :  (250, 250, 29, 1)
+control parameters [wind,temp,topo,slope,NDVI] shape:  (250, 250, 29, 4)
+dt                                                  :  0.03571428571428571
+grid size                                           :  250 , 250
+!!!!!!!!!!
+Dynamically lazy computing somehow does not work on Sherlock due to package version issue.
+Bounding box data for fire ID: 387635  not currently coded.
+go to google drive wildfire_dataprep.ipynb landsat (NDVI) section to look for data. Exiting program.
